@@ -1,0 +1,11 @@
+{
+    "author": ["Rob Keck (knkwebservices)"],
+    "min_bot_version": "3.5.0",
+    "description": "Icarus item/weapon/recipe/creature/talent lookups, pulled live from icarusdatabase.com.",
+    "hidden": false,
+    "install_msg": "Thanks for installing Icarus! Try `[p]icarus <name>` to look something up, e.g. `[p]icarus compound bow`.",
+    "requirements": ["aiohttp"],
+    "short": "Live Icarus database lookups.",
+    "tags": ["icarus", "game", "database", "lookup"],
+    "type": "COG"
+}

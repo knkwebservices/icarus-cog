@@ -1,0 +1,6 @@
+{
+    "author": ["Rob Keck (knkwebservices)"],
+    "install_msg": "Thanks for adding the icarus-cog repo! Install the `icarus` cog to get started: `[p]cog install icarus-cog icarus`",
+    "short": "Live Icarus database lookups for Red-DiscordBot.",
+    "description": "A Red-DiscordBot cog for Icarus players: look up items, weapons, recipes, creatures, talents and more, pulled live from icarusdatabase.com."
+}
